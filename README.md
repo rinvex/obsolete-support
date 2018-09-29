@@ -1,6 +1,8 @@
 # Rinvex Support
 
-**Rinvex common** support helpers, contracts, and traits required by various Rinvex packages. Validator functionality, and basic controller included out-of-the-box.
+**Rinvex Support** contains helpers, contracts, and traits required by various Rinvex packages. Validator functionality, and basic controller included out-of-the-box.
+
+⚠️ This package is **abandoned** and no longer maintained. The author suggests using the **[rinvex/laravel-support](https://github.com/rinvex/laravel-support)** package instead. ⚠️
 
 [![Packagist](https://img.shields.io/packagist/v/rinvex/support.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/rinvex/support)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/rinvex/support.svg?label=Scrutinizer&style=flat-square)](https://scrutinizer-ci.com/g/rinvex/support/)
