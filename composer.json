@@ -1,6 +1,6 @@
 {
     "name": "rinvex/support",
-    "description": "Rinvex common support helpers, contracts, and traits required by various Rinvex packages. Validator functionality, and basic controller included out-of-the-box.",
+    "description": "Rinvex support contains common helpers, contracts, and traits required by various Rinvex packages. Validator functionality, and basic controller included out-of-the-box.",
     "keywords": [
         "rinvex",
         "laravel",
@@ -76,6 +76,7 @@
             "dev-master": "1.0-dev"
         }
     },
+    "abandoned": "rinvex/laravel-support",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
