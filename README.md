@@ -2,7 +2,7 @@
 
 **Rinvex Support** contains helpers, contracts, and traits required by various Rinvex packages. Validator functionality, and basic controller included out-of-the-box.
 
-⚠️ This package is **abandoned** and no longer maintained. The author suggests using the **[rinvex/laravel-support](https://github.com/rinvex/laravel-support)** package instead. ⚠️
+⚠️ This package is **renamed** and now maintained at **[rinvex/laravel-support](https://github.com/rinvex/laravel-support)**, author suggests using the new package instead. Old package supportes up to Laravel v5.6, and the new one supports Laravel v5.7+
 
 [![Packagist](https://img.shields.io/packagist/v/rinvex/support.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/rinvex/support)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/rinvex/support.svg?label=Scrutinizer&style=flat-square)](https://scrutinizer-ci.com/g/rinvex/support/)
